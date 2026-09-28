@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sonderrift.github.io/speak-like-yourself/blog/sitemap.xml
